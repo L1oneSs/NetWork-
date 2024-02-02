@@ -1,0 +1,62 @@
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\bin\Debug\NetWork.exe.config
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\bin\Debug\NetWork.exe
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\bin\Debug\NetWork.pdb
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\obj\Debug\NetWork.csproj.AssemblyReference.cache
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\obj\Debug\NetWork.Properties.Resources.resources
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\obj\Debug\NetWork.csproj.GenerateResource.cache
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\obj\Debug\NetWork.exe
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\obj\Debug\NetWork.pdb
+D:\Program Files\JetBrains\Rider\Projects\NetWork\NetWork\obj\Debug\NetWork.Form1.resources
+C:\Users\luhsm\Desktop\NetWork\NetWork\bin\Debug\Devices.mdf
+C:\Users\luhsm\Desktop\NetWork\NetWork\bin\Debug\Devices_log.ldf
+C:\Users\luhsm\Desktop\NetWork\NetWork\bin\Debug\NetWork.exe.config
+C:\Users\luhsm\Desktop\NetWork\NetWork\bin\Debug\NetWork.exe
+C:\Users\luhsm\Desktop\NetWork\NetWork\bin\Debug\NetWork.pdb
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.csproj.AssemblyReference.cache
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.Form1.resources
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.Form2.resources
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.Form3.resources
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.Properties.Resources.resources
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.csproj.GenerateResource.cache
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.exe
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.pdb
+C:\Users\luhsm\Desktop\NetWork\NetWork\obj\Debug\NetWork.Coords.resources
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\Devices.mdf
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\Devices_log.ldf
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\NetWork.exe.config
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\NetWork.exe
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\NetWork.pdb
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.csproj.AssemblyReference.cache
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.Coords.resources
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.Form1.resources
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.Form2.resources
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.Form3.resources
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.Properties.Resources.resources
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.csproj.GenerateResource.cache
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.exe
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.pdb
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\Json.Net.dll
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luhsm\Desktop\Files\Универ\NetWork\NetWork\obj\Debug\NetWork.csproj.CopyComplete
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\bin\Debug\NetWork.exe.config
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\bin\Debug\NetWork.exe
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\bin\Debug\NetWork.pdb
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\bin\Debug\Json.Net.dll
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.csproj.AssemblyReference.cache
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.Coords.resources
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.Form2.resources
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.Properties.Resources.resources
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.csproj.GenerateResource.cache
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.csproj.CopyComplete
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.exe
+C:\Users\luhsm\Desktop\Files\Univer\NetWork\NetWork\obj\Debug\NetWork.pdb
